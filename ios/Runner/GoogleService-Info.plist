@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>626482713756-9lf831fav2pqhf3p3qr58ije65uehqnm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.626482713756-9lf831fav2pqhf3p3qr58ije65uehqnm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAz7916gn0JaM3trvu-P7aItQfN_0XB1ro</string>
+	<key>GCM_SENDER_ID</key>
+	<string>626482713756</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.firebaseChatSecond</string>
+	<key>PROJECT_ID</key>
+	<string>firebase-chat-second</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firebase-chat-second.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:626482713756:ios:b4fb0fecf40a62ec31c959</string>
+</dict>
+</plist>
